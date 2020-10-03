@@ -5,6 +5,295 @@
       "type": "Feature",
       "properties": {
        
+        "Combined Sites": "Milford Sounds"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			167.645187,
+			-45.55589	
+        ]
+      },
+      "bbox": [
+      167.645187,
+			-45.55589,	
+        167.645187,
+			-45.55589	
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Ohope"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			177.037124,
+			-37.965583
+        ]
+      },
+      "bbox": [
+      177.037124,
+			-37.965583,
+        177.037124,
+			-37.965583
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Redwoods Rotorua"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			176.273563,
+			-38.157341
+        ]
+      },
+      "bbox": [
+      176.273563,
+			-38.157341,
+        176.273563,
+			-38.157341
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Mount Maunganui (the Mountain itself)"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			176.170973,
+			-37.629955
+        ]
+      },
+      "bbox": [
+      176.170973,
+			-37.629955,
+        176.170973,
+			-37.629955
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "The Bay of Islands, Specifically Waewaetorea Island north side."
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			174.213912,
+			-35.229803
+        ]
+      },
+      "bbox": [
+      174.213912,
+			-35.229803,
+        174.213912,
+			-35.229803
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tamatea Peak"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			167.168354,
+			 -45.691672	
+        ]
+      },
+      "bbox": [
+      167.168354,
+			 -45.691672,
+        167.168354,
+			 -45.691672
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Ruakaka beach"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.461517,
+		  -35.903234   	
+        ]
+      },
+      "bbox": [
+       174.461517,
+		  -35.903234,
+        174.461517,
+		  -35.903234
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Mount Cargill, Dunedin"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.555611,
+		  -45.813217   	
+        ]
+      },
+      "bbox": [
+       170.555611,
+		  -45.813217,
+        170.555611,
+		  -45.813217  
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Pouakai hut in egmont national park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.067447,
+		-39.270454       	
+        ]
+      },
+      "bbox": [
+       174.067447,
+		-39.270454,  
+        174.067447,
+		-39.270454  
+      ]
+    },
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Fiordland National Park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.371215,
+		  -45.361795         	
+        ]
+      },
+      "bbox": [
+       167.371215,
+		  -45.361795,
+        167.371215,
+		  -45.361795
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Queenstown"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.711547,	
+			-45.034714          	
+        ]
+      },
+      "bbox": [
+       168.711547,	
+			-45.034714,
+        168.711547,	
+			-45.034714 
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Abel Tasman national park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.056896,	
+			-40.956302          	
+        ]
+      },
+      "bbox": [
+       173.056896,	
+			-40.956302,
+        173.056896,	
+			-40.956302
+      ]
+    },	
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
         "Combined Sites": "This particular beach at Mimiwhangata."
         
       },
