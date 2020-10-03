@@ -22,16 +22,12 @@
 			-45.55589	
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-       
+	{
+		"type": "Feature",
+		"properties": {
         "Combined Sites": "Ohope"
         
-      },
+		},        
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -46,10 +42,8 @@
 			-37.965583
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+		
       "type": "Feature",
       "properties": {
        
@@ -70,10 +64,8 @@
 			-38.157341
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+	  
       "type": "Feature",
       "properties": {
        
@@ -94,10 +86,8 @@
 			-37.629955
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+  
       "type": "Feature",
       "properties": {
        
@@ -118,10 +108,8 @@
 			-35.229803
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+	
       "type": "Feature",
       "properties": {
        
@@ -142,10 +130,8 @@
 			 -45.691672
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+	  
       "type": "Feature",
       "properties": {
        
@@ -166,10 +152,8 @@
 		  -35.903234
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+  
       "type": "Feature",
       "properties": {
        
@@ -190,10 +174,8 @@
 		  -45.813217  
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+  
       "type": "Feature",
       "properties": {
        
@@ -215,10 +197,8 @@
       ]
     },
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+  
       "type": "Feature",
       "properties": {
        
@@ -239,10 +219,8 @@
 		  -45.361795
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+  
       "type": "Feature",
       "properties": {
        
@@ -263,10 +241,8 @@
 			-45.034714 
       ]
     },
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
+	{
+	
       "type": "Feature",
       "properties": {
        
